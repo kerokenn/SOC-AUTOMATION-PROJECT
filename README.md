@@ -300,5 +300,3 @@ Running the workflow to test email notifications.
 Screenshots confirming the entire automation workflow is functioning successfully.
 
 ---
-
-*Note: Replace the example image URLs (e.g., https://i.imgur.com/example1.jpg) with actual Imgur or uploaded image URLs.*
