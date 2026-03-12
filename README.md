@@ -30,11 +30,13 @@ This project focuses on building an automated Security Operations Center (SOC) e
 ### 1. Set up and download Windows 11 with Sysmon
 
 #### 1.1. Download Windows 11 installation media
-![Ref 1: Download Windows 11 Installation Media](https://i.imgur.com/example1.jpg)  
+<img width="559" height="221" alt="image" src="https://github.com/user-attachments/assets/e6acfeeb-e1ed-41f0-8653-e9e27e04e3e9" />
+
 Downloading the Windows 11 ISO using the official media creation tool.
 
 #### 1.2. Create VM in Oracle Virtual Box and select Windows 11 ISO
-![Ref 2: Create VM in Oracle VirtualBox](https://i.imgur.com/example2.jpg)  
+<img width="1523" height="391" alt="image" src="https://github.com/user-attachments/assets/45e09ebf-cd9b-4e3c-a55b-65c1a778d6fc" />
+ 
 Configuring a new virtual machine and selecting the Windows 11 ISO.
 
 #### 1.3. Set up Windows 11
