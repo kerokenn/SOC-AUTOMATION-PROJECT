@@ -40,11 +40,12 @@ Downloading the Windows 11 ISO using the official media creation tool.
 Configuring a new virtual machine and selecting the Windows 11 ISO.
 
 #### 1.3. Set up Windows 11
-![Ref 3: Set up Windows 11](https://i.imgur.com/example3.jpg)  
+<img width="846" height="615" alt="image" src="https://github.com/user-attachments/assets/eaee027e-ce21-4c2f-97e6-75e6c7f95e61" />
 Completing the Windows 11 installation process, showing the desktop.
 
 #### 1.4. Download Sysmon version 15.15 and sysmonconfig.xml by Olaf
-![Ref 4: Download Sysmon](https://i.imgur.com/example4.jpg)  
+<img width="858" height="778" alt="image" src="https://github.com/user-attachments/assets/ca37c561-67d0-4066-9f78-bdadc13244af" />
+<img width="990" height="326" alt="image" src="https://github.com/user-attachments/assets/027c6a0a-a0e2-4495-a8cf-9e4c31cbd7d7" /> 
 Downloading Sysmon and the configuration file from Olaf Hartong's GitHub.
 
 #### 1.5. Open powershell and go to directory of Sysmon
