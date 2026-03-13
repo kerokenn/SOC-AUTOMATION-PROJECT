@@ -41,6 +41,7 @@ Configuring a new virtual machine and selecting the Windows 11 ISO.
 
 #### 1.3. Set up Windows 11
 <img width="846" height="615" alt="image" src="https://github.com/user-attachments/assets/eaee027e-ce21-4c2f-97e6-75e6c7f95e61" />
+
 Completing the Windows 11 installation process, showing the desktop.
 
 #### 1.4. Download Sysmon version 15.15 and sysmonconfig.xml by Olaf
@@ -49,30 +50,34 @@ Completing the Windows 11 installation process, showing the desktop.
 Downloading Sysmon and the configuration file from Olaf Hartong's GitHub.
 
 #### 1.5. Open powershell and go to directory of Sysmon
-![Ref 5: Open PowerShell for Sysmon](https://i.imgur.com/example5.jpg)  
+<img width="825" height="334" alt="image" src="https://github.com/user-attachments/assets/5f5bd08c-b21d-4722-aded-1414826a05cb" />
+
 Navigating to the Sysmon directory in PowerShell.
 
 #### 1.5.1. Install Sysmon
-![Ref 6: Install Sysmon](https://i.imgur.com/example6.jpg)  
+<img width="945" height="175" alt="image" src="https://github.com/user-attachments/assets/d808419e-05eb-4a64-8022-1be38df721b3" />
 Executing the Sysmon installation command with the configuration file.
 
 ### 2. Set up Cloud Environment for Wazuh and TheHive
 
 #### 2.1. Deploy Wazuh Server with 2vCPUs and 8GB Ram
 ##### 2.1.1. Setup with Ubuntu v24.04
-![Ref 7: Setup Wazuh with Ubuntu](https://i.imgur.com/example7.jpg)  
+<img width="654" height="227" alt="image" src="https://github.com/user-attachments/assets/6bbd26c3-e8e2-4310-84b8-cc73c774e9d8" />
+
 Setting up the Wazuh server VM with Ubuntu 24.04.
 
 ##### 2.1.2. Set up Firewall
-![Ref 8: Set up Firewall for Wazuh](https://i.imgur.com/example8.jpg)  
+<img width="792" height="319" alt="image" src="https://github.com/user-attachments/assets/81931845-c022-422d-a1d5-ae81cd7b08d2" /> 
+
 Configuring firewall rules on the Wazuh server.
 
 ##### 2.1.3. Update & Upgrade
-![Ref 9: Update and Upgrade Wazuh](https://i.imgur.com/example9.jpg)  
+<img width="1060" height="57" alt="image" src="https://github.com/user-attachments/assets/c1e1bba5-fcea-4617-9603-0a0bfd1c9be9" />
 Running apt update and upgrade commands.
 
 ##### 2.1.4. Install Wazuh 4.12
-![Ref 10: Install Wazuh](https://i.imgur.com/example10.jpg)  
+<img width="1060" height="59" alt="image" src="https://github.com/user-attachments/assets/a7be9fb0-d226-47be-a3d8-a3f5675a8fcd" />
+
 Installing Wazuh version 4.12.
 
 #### 2.2. Deploy TheHive VM with 2vCPUs and 8gb Ram
