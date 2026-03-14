@@ -72,7 +72,7 @@ Setting up the Wazuh server VM with Ubuntu 24.04.
 Configuring firewall rules on the Wazuh server.
 
 ##### 2.1.3. Update & Upgrade
-<img width="1060" height="57" alt="image" src="https://github.com/user-attachments/assets/c1e1bba5-fcea-4617-9603-0a0bfd1c9be9" />
+<img width="1060" height="57" alt="image" src="[https://github.com/user-attachments/assets/c1e1bba5-fcea-4617-9603-0a0bfd1c9be9](https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/2f4125de3dcf58e653d11c05fb7df17e76c6d930/image/Screenshot%202026-03-14%20093352.png)" />
 
 Running apt update and upgrade commands.
 
