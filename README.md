@@ -99,15 +99,18 @@ Running the command to install required packages.
 Adding the Java repository and installing Java.
 
 ##### 2.2.5. Install Apache Cassandra
-![Ref 15: Install Apache Cassandra](https://i.imgur.com/example15.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20095341.png?raw=true" />  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20095349.png?raw=true" /> 
 Installing Apache Cassandra.
 
 ##### 2.2.6. Install Elastic Search
-![Ref 16: Install Elastic Search](https://i.imgur.com/example16.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20095403.png?raw=true" /> 
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20095413.png?raw=true" /> 
+<img width="600" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20095420.png?raw=true" /> 
 Installing Elasticsearch.
 
 ##### 2.2.7. Install TheHive
-![Ref 17: Install TheHive](https://i.imgur.com/example17.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20095341.png?raw=true" /> 
 Installing TheHive packages.
 
 ##### 2.2.8. Install packages
