@@ -72,7 +72,7 @@ Setting up the Wazuh server VM with Ubuntu 24.04.
 Configuring firewall rules on the Wazuh server.
 
 ##### 2.1.3. Update & Upgrade
-<img width="1060" height="57" alt="image" src="[https://github.com/user-attachments/assets/c1e1bba5-fcea-4617-9603-0a0bfd1c9be9](https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/2f4125de3dcf58e653d11c05fb7df17e76c6d930/image/Screenshot%202026-03-14%20093352.png)" />
+<img width="1060" height="57" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20093352.png?raw=true" />
 
 Running apt update and upgrade commands.
 
@@ -83,19 +83,19 @@ Installing Wazuh version 4.12.
 
 #### 2.2. Deploy TheHive VM with 2vCPUs and 8gb Ram
 ##### 2.2.1. Setup with Ubuntu v24.04
-![Ref 11: Setup TheHive with Ubuntu](https://i.imgur.com/example11.jpg)  
+<img width="700" height="250" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20093555.png?raw=true" /> 
 Setting up the TheHive VM with Ubuntu 24.04.
 
 ##### 2.2.2. Add Firewall
-![Ref 12: Add Firewall for TheHive](https://i.imgur.com/example12.jpg)  
+<img width="700" height="250" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20093609.png?raw=true" />  
 Configuring firewall rules on the TheHive server.
 
 ##### 2.2.3. Install Dependencies
-![Ref 13: Install Dependencies for TheHive](https://i.imgur.com/example13.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20093632.png?raw=true" />  
 Running the command to install required packages.
 
 ##### 2.2.4. Install Java
-![Ref 14: Install Java](https://i.imgur.com/example14.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20093652.png?raw=true" />  
 Adding the Java repository and installing Java.
 
 ##### 2.2.5. Install Apache Cassandra
