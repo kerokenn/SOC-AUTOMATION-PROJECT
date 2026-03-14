@@ -73,6 +73,7 @@ Configuring firewall rules on the Wazuh server.
 
 ##### 2.1.3. Update & Upgrade
 <img width="1060" height="57" alt="image" src="https://github.com/user-attachments/assets/c1e1bba5-fcea-4617-9603-0a0bfd1c9be9" />
+
 Running apt update and upgrade commands.
 
 ##### 2.1.4. Install Wazuh 4.12
