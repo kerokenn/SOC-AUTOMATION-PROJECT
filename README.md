@@ -121,38 +121,38 @@ Building dependency trees for TheHive.
 
 #### 3.1. TheHive
 ##### 3.1.1. Go to Cassandra
-![Ref 19: Go to Cassandra](https://i.imgur.com/example19.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211304.png?raw=true" />  
 Editing cassandra.yaml using nano.
 
 ##### 3.1.2. Change Cluster Name from test -> SOCAUTO
-![Ref 20: Change Cassandra Cluster Name](https://i.imgur.com/example20.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211304.png?raw=true" /> 
 Updating the cluster name to SOCAUTO.
 
 ##### 3.1.3. Change listen address to TheHive server IP
 from local -> 1**.**.***.**
-![Ref 21: Change Listen Address](https://i.imgur.com/example21.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211304.png?raw=true" />
 Updating the listen address.
 
 ##### 3.1.4. Change the rpc_address to TheHive server IP
 from local -> 1**.**.***.**
-![Ref 22: Change RPC Address](https://i.imgur.com/example22.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211304.png?raw=true" />
 Updating the RPC address.
 
 ##### 3.1.5. Change seed_provider To TheHive server IP
 from 1**.*.*.* -> 1**.**.***.**
-![Ref 23: Change Seed Provider](https://i.imgur.com/example23.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211304.png?raw=true" />
 Updating the seed provider.
 
 ##### 3.1.6. Stop cassandra, remove file, start cassandra then check status
-![Ref 24: Manage Cassandra Service](https://i.imgur.com/example24.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211304.png?raw=true" /> 
 Stopping, removing files, starting, and checking Cassandra status.
 
 ##### 3.1.7. Configure Elasticsearch
-![Ref 25: Configure Elasticsearch](https://i.imgur.com/example25.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211304.png?raw=true" /> 
 Editing elasticsearch.yml.
 
 ##### 3.1.8. Change cluster.name
-![Ref 26: Change Elasticsearch Cluster Name](https://i.imgur.com/example26.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211304.png?raw=true" />
 Updating the cluster name to SOCAUTO.
 
 ##### 3.1.9. Change network host to TheHive server IP
