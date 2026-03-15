@@ -110,11 +110,11 @@ Installing Apache Cassandra.
 Installing Elasticsearch.
 
 ##### 2.2.7. Install TheHive
-<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-14%20095341.png?raw=true" /> 
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211251.png?raw=true" /> 
 Installing TheHive packages.
 
 ##### 2.2.8. Install packages
-![Ref 18: Install Additional Packages for TheHive](https://i.imgur.com/example18.jpg)  
+<img width="1000" height="80" alt="image" src="https://github.com/kerokenn/SOC-AUTOMATION-PROJECT/blob/main/image/Screenshot%202026-03-15%20211304.png?raw=true" /> 
 Building dependency trees for TheHive.
 
 ### 3. Wazuh and TheHive Configuration
